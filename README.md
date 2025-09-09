@@ -1,0 +1,1 @@
+uvicorn thesis:app --reload --port 8080
